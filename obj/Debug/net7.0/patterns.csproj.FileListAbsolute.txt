@@ -1,0 +1,15 @@
+C:\dev\patterns\bin\Debug\net7.0\patterns.exe
+C:\dev\patterns\bin\Debug\net7.0\patterns.deps.json
+C:\dev\patterns\bin\Debug\net7.0\patterns.runtimeconfig.json
+C:\dev\patterns\bin\Debug\net7.0\patterns.dll
+C:\dev\patterns\bin\Debug\net7.0\patterns.pdb
+C:\dev\patterns\obj\Debug\net7.0\patterns.csproj.AssemblyReference.cache
+C:\dev\patterns\obj\Debug\net7.0\patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\patterns\obj\Debug\net7.0\patterns.AssemblyInfoInputs.cache
+C:\dev\patterns\obj\Debug\net7.0\patterns.AssemblyInfo.cs
+C:\dev\patterns\obj\Debug\net7.0\patterns.csproj.CoreCompileInputs.cache
+C:\dev\patterns\obj\Debug\net7.0\patterns.dll
+C:\dev\patterns\obj\Debug\net7.0\refint\patterns.dll
+C:\dev\patterns\obj\Debug\net7.0\patterns.pdb
+C:\dev\patterns\obj\Debug\net7.0\patterns.genruntimeconfig.cache
+C:\dev\patterns\obj\Debug\net7.0\ref\patterns.dll
