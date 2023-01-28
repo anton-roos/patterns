@@ -1,20 +1,13 @@
-﻿var shape = new Shape();
-var triangle = new Triangle();
-var j = new Journal();
+﻿using System.Diagnostics;
 
-j.AddEntry("Hello World");
-j.AddEntry("My name is Tom Riddle");
-j.AddEntry("I love adding entries into my journal");
-Console.WriteLine(j);
+var journal = new Journal();
+var persistence = new Persistence();
+var filename = @"c:\temp\journal.txt";
 
-Console.WriteLine(shape);
+journal.AddEntry("My name is Tom Riddle");
+journal.AddEntry("Today was an awesome day!");
+journal.AddEntry("I love adding entries into my journal");
+journal.AddEntry("I am not evil... I think :(");
 
-class Shape
-{
-
-}
-
-class Triangle : Shape
-{
-
-}
+persistence.SaveToFile(journal, filename, true);
+Process.Start(new ProcessStartInfo { FileName = filename, UseShellExecute = true });
